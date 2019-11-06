@@ -187,7 +187,7 @@ class Dashboard extends Component {
                     name="annualsalary"
                     type="number"
                     fluid
-                    label="Annual Salary"
+                    label="Annual Salary($)"
                     placeholder="Annual Salary($)"
                   />
                   <Form.Input
@@ -195,7 +195,7 @@ class Dashboard extends Component {
                     name="superrate"
                     type="number"
                     fluid
-                    label="Super Rate"
+                    label="Super Rate(%)"
                     placeholder="Super Rate(%)"
                   />
                 </Form.Group>
