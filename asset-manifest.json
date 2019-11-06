@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hr-payroll-management/static/css/main.31157b6f.chunk.css",
+    "main.js": "/hr-payroll-management/static/js/main.fb9aefab.chunk.js",
+    "main.js.map": "/hr-payroll-management/static/js/main.fb9aefab.chunk.js.map",
+    "runtime-main.js": "/hr-payroll-management/static/js/runtime-main.9e9efe37.js",
+    "runtime-main.js.map": "/hr-payroll-management/static/js/runtime-main.9e9efe37.js.map",
+    "static/css/2.34a0b89d.chunk.css": "/hr-payroll-management/static/css/2.34a0b89d.chunk.css",
+    "static/js/2.b56e076e.chunk.js": "/hr-payroll-management/static/js/2.b56e076e.chunk.js",
+    "static/js/2.b56e076e.chunk.js.map": "/hr-payroll-management/static/js/2.b56e076e.chunk.js.map",
+    "index.html": "/hr-payroll-management/index.html",
+    "precache-manifest.1ee78d8447e59e4b8af67bb5b05ef1be.js": "/hr-payroll-management/precache-manifest.1ee78d8447e59e4b8af67bb5b05ef1be.js",
+    "service-worker.js": "/hr-payroll-management/service-worker.js",
+    "static/css/2.34a0b89d.chunk.css.map": "/hr-payroll-management/static/css/2.34a0b89d.chunk.css.map",
+    "static/css/main.31157b6f.chunk.css.map": "/hr-payroll-management/static/css/main.31157b6f.chunk.css.map",
+    "static/media/semantic.min.css": "/hr-payroll-management/static/media/icons.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e9efe37.js",
+    "static/css/2.34a0b89d.chunk.css",
+    "static/js/2.b56e076e.chunk.js",
+    "static/css/main.31157b6f.chunk.css",
+    "static/js/main.fb9aefab.chunk.js"
+  ]
+}
