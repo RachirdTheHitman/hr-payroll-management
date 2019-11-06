@@ -45,3 +45,9 @@ body {
 }
 
 /*end home page styles*/
+
+#pay-div {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
