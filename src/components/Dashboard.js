@@ -141,8 +141,8 @@ class Dashboard extends Component {
   };
 
   postDataFetch = async () => {
-    console.log("executed post!");
-    console.log(this.state);
+    // console.log("executed post!");
+    // console.log(this.state);
     const response = await fetch(
       "https://richard-nodeapi-test.herokuapp.com/users",
       {
