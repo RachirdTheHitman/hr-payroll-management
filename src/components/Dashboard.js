@@ -188,7 +188,7 @@ class Dashboard extends Component {
                     type="number"
                     fluid
                     label="Annual Salary"
-                    placeholder="Annual Salary"
+                    placeholder="Annual Salary($)"
                   />
                   <Form.Input
                     onChange={this.handleInputChange}
@@ -196,7 +196,7 @@ class Dashboard extends Component {
                     type="number"
                     fluid
                     label="Super Rate"
-                    placeholder="Super Rate"
+                    placeholder="Super Rate(%)"
                   />
                 </Form.Group>
                 <Form.Button>Generate Payslip</Form.Button>
