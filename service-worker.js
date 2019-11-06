@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hr-payroll-management/precache-manifest.5c6aa89fecf80f08f1222ed2b9aac92f.js"
+  "/hr-payroll-management/precache-manifest.faf0494740780617c27fa941f32166ff.js"
 );
 
 self.addEventListener('message', (event) => {

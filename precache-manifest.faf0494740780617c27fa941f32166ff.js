@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72dc3b92deaf78ad984bfaaf249ad194",
+    "revision": "3364ce0481eb628ae9c42ad0dc59bd1c",
     "url": "/hr-payroll-management/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hr-payroll-management/static/css/2.34a0b89d.chunk.css"
   },
   {
-    "revision": "07772e6c0c9212e73b55",
+    "revision": "80fcf983bc869dcfaf4b",
     "url": "/hr-payroll-management/static/css/main.31157b6f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hr-payroll-management/static/js/2.b56e076e.chunk.js"
   },
   {
-    "revision": "07772e6c0c9212e73b55",
-    "url": "/hr-payroll-management/static/js/main.05d7c4eb.chunk.js"
+    "revision": "80fcf983bc869dcfaf4b",
+    "url": "/hr-payroll-management/static/js/main.7543bcd2.chunk.js"
   },
   {
     "revision": "0bf1e5bd2d0436dee7cd",
